@@ -13,8 +13,6 @@ I've come to really enjoy the simplicity of inline SVG icons. This repository wi
 ```
 ---
 
-###Pause
-
 ![](https://rawgit.com/dotspencer/simple-svg-icons/master/icons/pause.svg)| Pause
 ---|---
 
@@ -25,8 +23,6 @@ I've come to really enjoy the simplicity of inline SVG icons. This repository wi
 </svg>
 ```
 ---
-
-###Restart
 
 ![Restart](https://rawgit.com/dotspencer/simple-svg-icons/master/icons/restart.svg)| Restart
 ---|---
