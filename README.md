@@ -4,10 +4,5 @@ Resource for simple SVG icons
 
 **Play**
 
-<details>
-  <summary>Code</summary>
-  
-    <svg height="30" width="30">
-      <polygon points="5,0 25,15 5,30"/>
-    </svg>
-</details>
+<img src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjMwIiB3aWR0aD0iMzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBvbHlnb24gcG9pbnRzPSI1LDAgMjUsMTUgNSwzMCIvPgo8L3N2Zz4K">
+    
