@@ -3,7 +3,7 @@
 I've come to really enjoy the simplicity of inline SVG icons. This repository will serve as a home for the icons I create for my various web projects. All icons are 30 x 30px. Enjoy!
 
 
-<img src="https://rawgit.com/dotspencer/simple-svg-icons/master/icons/play.svg"> | play
+![](https://rawgit.com/dotspencer/simple-svg-icons/master/icons/play.svg)| Play
 ---|---
 
 ```html
@@ -15,7 +15,8 @@ I've come to really enjoy the simplicity of inline SVG icons. This repository wi
 
 ###Pause
 
-![](https://rawgit.com/dotspencer/simple-svg-icons/master/icons/pause.svg)
+![](https://rawgit.com/dotspencer/simple-svg-icons/master/icons/pause.svg)| Pause
+---|---
 
 ```html
 <svg height="30" width="30" xmlns="http://www.w3.org/2000/svg">
@@ -23,10 +24,12 @@ I've come to really enjoy the simplicity of inline SVG icons. This repository wi
   <rect height="30" width="8" x="17"/>
 </svg>
 ```
+---
 
 ###Restart
 
-![Restart](https://rawgit.com/dotspencer/simple-svg-icons/master/icons/restart.svg)
+![Restart](https://rawgit.com/dotspencer/simple-svg-icons/master/icons/restart.svg)| Restart
+---|---
 
 ```html
 <svg height="30" width="30" xmlns="http://www.w3.org/2000/svg">
@@ -42,3 +45,4 @@ I've come to really enjoy the simplicity of inline SVG icons. This repository wi
   <rect height="5" width="13" y="12" fill=""/>
 </svg>
 ```
+---
