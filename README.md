@@ -1,8 +1,8 @@
 # Simple SVG Icons
 
-Resource for simple SVG icons. All icons are 30 x 30px.
+I've come to really enjoy the simplicity of inline SVG icons. This repository will serve as a home for the icons I create for my various web projects. All icons are 30 x 30px. Enjoy!
 
-**Play**
+###Play
 
 ![Play](https://rawgit.com/dotspencer/simple-svg-icons/master/icons/play.svg)
 
@@ -11,7 +11,7 @@ Resource for simple SVG icons. All icons are 30 x 30px.
     </svg>
 
 
-**Pause**
+###Pause
 
 ![Pause](https://rawgit.com/dotspencer/simple-svg-icons/master/icons/pause.svg)
 
@@ -21,7 +21,7 @@ Resource for simple SVG icons. All icons are 30 x 30px.
     </svg>
 
 
-**Restart**
+###Restart
 
 ![Restart](https://rawgit.com/dotspencer/simple-svg-icons/master/icons/restart.svg)
 
