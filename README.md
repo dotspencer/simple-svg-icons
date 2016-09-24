@@ -1,6 +1,6 @@
 # Simple SVG Icons
 
-I've come to really enjoy the simplicity of inline SVG icons. This repository will serve as a home for the icons I create for my various web projects. All icons are 30 x 30px. Enjoy!
+I've come to really enjoy the simplicity of inline SVG icons. This repository will serve as a home for the icons I create for my various web projects. All icons are 30x30. Enjoy!
 
 <br>
 
