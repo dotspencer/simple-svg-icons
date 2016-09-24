@@ -1,6 +1,6 @@
 # Simple SVG Icons
 
-Resource for simple SVG icons
+Resource for simple SVG icons. All icons are 30 x 30px.
 
 **Play**
 
