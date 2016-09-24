@@ -2,14 +2,15 @@
 
 I've come to really enjoy the simplicity of inline SVG icons. This repository will serve as a home for the icons I create for my various web projects. All icons are 30 x 30px. Enjoy!
 
-###Play
 
-![Play](https://rawgit.com/dotspencer/simple-svg-icons/master/icons/play.svg)
+![](https://rawgit.com/dotspencer/simple-svg-icons/master/icons/play.svg) | play
+---|---
 
     <svg height="30" width="30" xmlns="http://www.w3.org/2000/svg">
       <polygon points="5,0 25,15 5,30"/>
     </svg>
 
+---
 
 ###Pause
 
