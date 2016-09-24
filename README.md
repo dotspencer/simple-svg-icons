@@ -2,7 +2,7 @@
 
 I've come to really enjoy the simplicity of inline SVG icons. This repository will serve as a home for the icons I create for my various web projects. All icons are 30 x 30px. Enjoy!
 
----
+<br>
 
 ![](https://rawgit.com/dotspencer/simple-svg-icons/master/icons/play.svg)| Play
 ---|---
