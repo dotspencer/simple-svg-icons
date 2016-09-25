@@ -53,3 +53,15 @@ I've come to really enjoy the simplicity of inline SVG icons. This repository wi
 </svg>
 ```
 ---
+
+![](https://rawgit.com/dotspencer/simple-svg-icons/master/icons/modified.svg)| Modified
+---|---
+
+```html
+<svg height="30" width="30" xmlns="http://www.w3.org/2000/svg">
+	<circle cx="5" cy="15" r="3" />
+	<circle cx="25" cy="15" r="3" />
+	<circle cx="15" cy="15" r="3" />
+</svg>
+```
+---
