@@ -25,7 +25,7 @@ I've come to really enjoy the simplicity of inline SVG icons. This repository wi
 ```
 ---
 
-![Restart](https://rawgit.com/dotspencer/simple-svg-icons/master/icons/restart.svg)| Restart
+![](https://rawgit.com/dotspencer/simple-svg-icons/master/icons/restart.svg)| Restart
 ---|---
 
 ```html
@@ -40,6 +40,16 @@ I've come to really enjoy the simplicity of inline SVG icons. This repository wi
   <circle cx="15" cy="15" r="13" mask="url(#m)" />
   <rect height="10" width="5" y="3" fill=""/>
   <rect height="5" width="13" y="12" fill=""/>
+</svg>
+```
+---
+
+![](https://rawgit.com/dotspencer/simple-svg-icons/master/icons/check.svg)| Check
+---|---
+
+```html
+<svg height="30" width="30" xmlns="http://www.w3.org/2000/svg">
+	<path d="M3 17 L12 24 L26 6" stroke="black" fill="none" stroke-width="6" />
 </svg>
 ```
 ---
