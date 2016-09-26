@@ -65,3 +65,17 @@ I've come to really enjoy the simplicity of inline SVG icons. This repository wi
 </svg>
 ```
 ---
+
+![](https://rawgit.com/dotspencer/simple-svg-icons/master/icons/download.svg)| Download
+---|---
+
+```html
+<svg height="30" width="30" xmlns="http://www.w3.org/2000/svg">
+	<rect height="4" width="26" x="2" y="24" />
+	<rect height="8" width="4" x="2" y="18"/>
+	<rect height="8" width="4" x="24" y="18"/>
+	<path d="M15 2 V18" stroke="black" stroke-width="4" />
+	<path d="M22 12 L15 19 L8 12" stroke="black" stroke-width="4" fill="none" stroke-linejoin="miter" />
+</svg>
+```
+---
